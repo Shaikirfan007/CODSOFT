@@ -1,6 +1,6 @@
 # Quizify - Online Quiz Maker Platform
 
-## 📋 Project Overview
+##Project Overview
 
 **Quizify** is a web-based platform that enables users to create and take quizzes with real-time feedback. It's a full-stack application built with modern technologies including React, Node.js, Express, and MongoDB.
 
